@@ -1,0 +1,17 @@
+/* src/App.css */
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  
+  .blog-post {
+    margin-bottom: 20px;
+    /* border: 1px solid #ddd; */
+    padding: 10px;
+    border-radius: 5px;
+    /* width: 260px; */
+    
+  }
+  

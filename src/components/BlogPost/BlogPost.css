@@ -1,0 +1,9 @@
+.blog-post{
+border: 1px solid black;
+}
+.togglebutton{
+    color: red;
+   background:none;
+    border: none;
+    cursor: pointer
+}
