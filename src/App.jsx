@@ -2,7 +2,7 @@
 /* eslint-disable no-unused-vars */
 import React, { useState } from "react";
 import BlogList from "./components/BlogList/BlogList";
-import NavBar from "../src/components/NavBar/Navbar";
+import NavBar from '../src/components/NavBar/NavBar';
 import '../src/App.css';
 
 const App = () => {
